@@ -1,0 +1,62 @@
+.page {
+  width: 400px;
+  height: 600px;
+  background-color: #D3D0CB;
+}
+
+#article_title {
+  font-family: 'Anton', sans-serif;
+  font-size: 30px;
+  font-weight: lighter;
+  letter-spacing: 5px;
+  padding: 20px;
+  margin: 0px;
+  color: #461220
+}
+
+#intro {
+  margin: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'Oswald', sans-serif;
+  line-height: 40px;
+  width: 90%;
+  color: #8C2F39
+}
+
+h5 {
+  margin: 3px;
+}
+
+.question{
+  font-family: 'Railway', sans-serif;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 90%;
+  color: #4C5760;
+  padding-bottom: 0px;
+  margin-top: 20px;
+}
+
+.answer{
+  font-family: 'Railway', sans-serif;
+  font-weight: lighter;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 90%;
+  color: #4C5760;
+}
+
+#block_quote {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  color: #8C2F39;
+  border-left: #4C5760 solid thin;
+  padding-left: 5px;
+}
